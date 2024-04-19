@@ -1,0 +1,10 @@
+open NetBeans IDE click to --> File --> New Project --> (Categories select) java web (Project) Web Application --next--> ProjectName( anythink ) --next--> server and Settings (default set option) --next--> Frameworks(first time (don't select to any one option))--finist--.
+
+webpage--> WEB_INF --> index.html(Right click to run  and default browser open this File)Browsing: http://localhost:8080/Your File name/index.html
+
+Error --> GlassFish --> windo + R --> type (services.msc)--> OracleServiceXE Right click to --> stop.
+
+if servlet page not show option
+
+Right click to -->  WEB_INF --> (select servlet.java).
+
